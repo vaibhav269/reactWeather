@@ -2,7 +2,12 @@ var React=require('react')
 var About=React.createClass({
         render:function(){
                 return(
-                        <h3>About Component</h3>
+                        <div>
+                                <h1 className="text-center">About Component</h1>
+                                <p className="text-center">
+                                        It's all about a Weather Application using react js
+                                </p>
+                        </div>
                 )
         }
 });
