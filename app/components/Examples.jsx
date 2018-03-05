@@ -11,7 +11,7 @@ var Examples=React.createClass({
                                         <Link to="/?location=Roorkee">Roorkee</Link>
                                 </li>
                                 <li>
-                                        <Link to="/?location=Delhi">Delhi</Link>
+                                        <Link to="/?location=Rudrapur">Rudrapur</Link>
                                 </li>
                         </ol>
                         </div>
